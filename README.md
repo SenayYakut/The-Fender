@@ -11,12 +11,11 @@ Use your knowledge of working with Python files to retrieve, manipulate, obscure
 
 Install the project locally
 ```bash
-git clone https://github.com/SenayYakut/Search.git
 ```
 
 ## Usage
 Go to this  
-https://senayyakut.github.io/Search/
+https://senayyakut.github.io/The-Fender/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
