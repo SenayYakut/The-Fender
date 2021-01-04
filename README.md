@@ -11,6 +11,7 @@ Use your knowledge of working with Python files to retrieve, manipulate, obscure
 
 Install the project locally
 ```bash
+https://github.com/SenayYakut/The-Fender.git
 ```
 
 ## Usage
